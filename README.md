@@ -1,4 +1,4 @@
 # Curso de Visualización de Datos con Matplotlib y Seaborn
 
-## Capítulo: `pivot_table` y `melt`
-En este capítulo, exploraremos dos poderosas herramientas de manipulación de datos en Pandas: `pivot_table` y `melt`. Estas funciones permiten transformar y reorganizar conjuntos de datos de manera eficiente y elegante.
+## Contenido practico y con poco orden: `Matplotlib` y `Seaborn`
+En este repositorio, encontraran de manera un poco ordenada los distintos ejemplos del uso de las librerias previamente mencionadas, con la base de datos 'tips', la cual se encuentra dentro seaborn y es el punto de partido de la separacion de los temas de matploplib y seaborn, ambas son herramientas basicas que todo cientifico de datos debe manejar.
